@@ -1,4 +1,0 @@
-Entendendo o head
-1 2 3 4 5 6
-Modificação no branch master
-Esta linha foi modicada no branch teste
